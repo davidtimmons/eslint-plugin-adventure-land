@@ -17,9 +17,9 @@
     "test": "mocha tests --recursive"
   },
   "devDependencies": {
-    "eslint": "~3.9.1",
+    "eslint": "^5.13.0",
     "generator-eslint": "^1.2.0",
-    "mocha": "^3.1.2",
+    "mocha": "^5.2.0",
     "yo": "^2.0.5"
   },
   "engines": {
