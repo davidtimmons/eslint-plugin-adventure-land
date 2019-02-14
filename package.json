@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-adventure-land",
+  "version": "1.0.0",
+  "description": "Adventure Land MMORPG ESLint plugin adding game global variables to the environment.",
+  "keywords": [
+    "adventure land",
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "plugin",
+    "environment",
+    "globals"
+  ],
+  "author": "David Timmons",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "generator-eslint": "^1.2.0",
+    "mocha": "^3.1.2",
+    "yo": "^2.0.5"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
