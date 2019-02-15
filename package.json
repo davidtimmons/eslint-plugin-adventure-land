@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-adventure-land",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adventure Land MMORPG ESLint plugin adding a custom environment containing global game functions, classes, and variables.",
   "keywords": [
     "adventure land mmorpg",
