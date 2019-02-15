@@ -13,7 +13,16 @@
     "globals"
   ],
   "author": "David Timmons",
+  "license": "MIT",
+  "homepage": "https://github.com/davidtimmons/eslint-plugin-adventure-land#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidtimmons/eslint-plugin-adventure-land.git"
+  },
   "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
   "scripts": {
     "test": "mocha tests --recursive"
   },
@@ -22,9 +31,5 @@
     "generator-eslint": "^1.2.0",
     "mocha": "^5.2.0",
     "yo": "^2.0.5"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "license": "MIT"
+  }
 }
