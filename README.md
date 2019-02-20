@@ -40,6 +40,9 @@ $ npm install eslint-plugin-adventure-land --save-dev
 }
 ```
 
-## Special Thanks
+## Sources
 
-Special thanks to NexusNull for the [unofficial Adventure Land MMORPG code documentation](https://nexusnull.github.io/adventureland/global.html). Most environment globals in this plugin come directly from that document.
+1. [Official Adventure Land MMORPG source code](https://github.com/kaansoral/adventureland/blob/master/runner_functions.js)
+   by Kaan Soral.
+1. [Unofficial Adventure Land MMORPG code documentation](https://nexusnull.github.io/adventureland/global.html)
+   by NexusNull.
