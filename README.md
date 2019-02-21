@@ -1,7 +1,8 @@
 eslint-plugin-adventure-land
 ============================
 
-[![npm version](https://badge.fury.io/js/eslint-plugin-adventure-land.svg)](http://badge.fury.io/js/eslint-plugin-adventure-land)
+![npm version](https://img.shields.io/npm/v/eslint-plugin-adventure-land.svg)
+![npm downloads](https://img.shields.io/npm/dt/eslint-plugin-adventure-land.svg)
 
 [Adventure Land MMORPG](http://adventure.land/) [ESLint](https://eslint.org/) plugin adding a
 custom environment containing global game functions, classes, and variables.
