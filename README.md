@@ -1,11 +1,14 @@
 eslint-plugin-adventure-land
 ============================
 
-![npm version](https://img.shields.io/npm/v/eslint-plugin-adventure-land.svg)
-![npm downloads](https://img.shields.io/npm/dt/eslint-plugin-adventure-land.svg)
+<p>
+    <a href="https://www.npmjs.com/package/eslint-plugin-adventure-land"><img src="https://img.shields.io/npm/v/eslint-plugin-adventure-land.svg"></a>
+    <a href="https://www.npmjs.com/package/eslint-plugin-adventure-land"><img src="https://img.shields.io/npm/dt/eslint-plugin-adventure-land.svg"></a>
+</p>
 
 [Adventure Land MMORPG](http://adventure.land/) [ESLint](https://eslint.org/) plugin adding a
-custom environment containing global game functions, classes, and variables.
+custom environment containing global game functions, classes, and variables. For test stubs and
+mock data, see the [test helpers](https://github.com/davidtimmons/adventure-land-test-helpers).
 
 ## Installation
 
